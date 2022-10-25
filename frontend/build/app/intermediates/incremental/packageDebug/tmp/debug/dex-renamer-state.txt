@@ -1,0 +1,4 @@
+#Wed Apr 28 10:33:19 IST 2021
+base.0=C\:\\Users\\jonny\\Desktop\\Shopperz-master\\frontend\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
